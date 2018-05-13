@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">I am here</string>
+  <string name="sendSMSTitle">Send SMS</string>
+  <string name="TextPhoneTitle">Numéro de téléphone de la personne à contacter</string>
+  <string name="sendSMSIntentTitle">Send SMS using intent</string>
+</resources>
